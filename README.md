@@ -8,6 +8,7 @@
 **Applied-AI polymath — I build production-grade software that closes real gaps, from seismic engineering to species conservation.**
 
 [![StructAI](https://img.shields.io/badge/StructAI-www.structai.online-1d3557?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.structai.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-wilmerperez--ai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilmerperez-ai/)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![IA aplicada](https://img.shields.io/badge/IA%20aplicada-13%20dominios-0e8a16?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG%20%2F%20IoT%20%2F%20Visión-Colombia-5319e7?style=flat-square)
@@ -74,5 +75,7 @@ en vivo tras el terremoto de agosto de 2026. Repo: [`structai`](https://github.c
 📍 Barranquilla, Atlántico — Colombia
 &nbsp;·&nbsp;
 🌐 **[structai.online](https://www.structai.online)**
+&nbsp;·&nbsp;
+💼 **[LinkedIn](https://www.linkedin.com/in/wilmerperez-ai/)**
 
 </div>
